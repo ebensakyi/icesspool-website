@@ -170,14 +170,14 @@ export default function Footer() {
                 Ad Choices
               </a>
             </li> */}
-            <li>
+            {/* <li>
               <a
                 href="/"
                 className="text-md text-black transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
                 Cookie Policy
               </a>
-            </li>
+            </li> */}
             {/* <li>
               <a
                 href="/"
