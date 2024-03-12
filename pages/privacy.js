@@ -21,7 +21,7 @@ export default function Footer() {
                     sensitive user data. By using ICESSPOOL, you agree to the
                     terms described in this policy.
                   </p>
-
+<br/>
                   <h2>
                     1. Types of Personal and Sensitive User Data Collected
                   </h2>
@@ -48,7 +48,7 @@ export default function Footer() {
                       your precise or approximate location.
                     </li>
                   </ul>
-
+                  <br/>
                   <h2>2. How We Collect User Data</h2>
 
                   <p>We collect user data through:</p>
@@ -62,7 +62,7 @@ export default function Footer() {
                       analytics tools.
                     </li>
                   </ul>
-
+                  <br/>
                   <h2>3. How We Use and Share User Data</h2>
 
                   <p>
@@ -88,7 +88,7 @@ export default function Footer() {
                       rights.
                     </li>
                   </ul>
-
+                  <br/>
                   <h2>4. Secure Data Handling Procedures</h2>
 
                   <p>
@@ -109,7 +109,7 @@ export default function Footer() {
                     secure. While we strive to protect your data, we cannot
                     guarantee absolute security.
                   </p>
-
+                  <br/>
                   <h2>5. Data Retention and Deletion</h2>
 
                   <p>
@@ -118,7 +118,7 @@ export default function Footer() {
                     request access to their data and its deletion. Please
                     contact us at esicapp2022@gmail.com for such requests.
                   </p>
-
+                  <br/>
                   <h2>6. Children`s Privacy</h2>
 
                   <p>
@@ -127,7 +127,7 @@ export default function Footer() {
                     If you believe your child has provided us with personal
                     information, please contact us to have it removed.
                   </p>
-
+                  <br/>
                   <h2>7. Changes to Privacy Policy</h2>
 
                   <p>
@@ -135,7 +135,7 @@ export default function Footer() {
                     changes will be posted on our website or within the app.
                     Please review this policy periodically for updates.
                   </p>
-
+                  <br/>
                   <h2>8. Contact Us</h2>
 
                   <p>
@@ -149,17 +149,17 @@ export default function Footer() {
                   </p>
 
                   <address>
-                    Ministry of Sanitation and Water Resources
+                   ICESSPOOL Limited
                     <br />
-                    Starlets 91 Rd, Accra
+                    Nyamekye
                     <br />
                     Accra, Ghana
                     <br />
-                    <a href="http://mswr.gov.gh/">http://mswr.gov.gh/</a>
+                    <a href="http://icesspool.net/">https://icesspool.net/</a>
                     <br />
-                    Email: <a href="mailto:esicapp2022@gmail.com">App Email</a>
+                    Email: <a href="mailto:info@icesspool.net">App Email</a>
                     <br />
-                    Phone: 0543212322
+                    Phone: +233 20 912 5718
                   </address>
                 </div>
               </div>
